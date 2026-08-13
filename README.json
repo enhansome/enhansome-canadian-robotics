@@ -1,0 +1,332 @@
+{
+  "items": [
+    {
+      "description": "You need at least 15 stars on your repository to be listed here. The list is sorted by number of stars.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "libpointmatcher",
+          "description": "An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics in C++. Norlab is maintaining and using the library for their research on autonomous navigation in harsh environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-29T18:18:13Z",
+            "owner": "norlab-ulaval",
+            "repo": "libpointmatcher",
+            "stars": 1827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ros_kortex",
+          "description": "Official ROS packages to interface with Kinova's KORTEX platform, supporting control, feedback, and example applications for Kinova Gen3 and Gen3 Lite robotic arms. Developed and maintained by Kinova Robotics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-26T17:38:43Z",
+            "owner": "Kinovarobotics",
+            "repo": "ros_kortex",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VT&R3",
+          "description": "A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network. utiasASRL is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T21:00:08Z",
+            "owner": "utiasASRL",
+            "repo": "vtr3",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "optimized_dp",
+          "description": "Optimizing Dynamic Programming-Based Algorithms Resources. SFU-MARS is maintaining this library for their research on principled robot decision making ombining traditional analytical methods in robotics and modern data-driven techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T19:49:59Z",
+            "owner": "SFU-MARS",
+            "repo": "optimized_dp",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lidar_snow_removal",
+          "description": "A set of nodes for ROS to filter point clouds with the goal of removing snow in Lidar data. TrailLAb was maintaining this package for their publications on the Canadian Adverse Weather Dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-04T04:48:00Z",
+            "owner": "nickcharron",
+            "repo": "lidar_snow_removal",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "norlab_icp_mapper",
+          "description": "A 2-D/3-D mapping library relying on the \"Iterative Closest Point\" algorithm. Norlab is maintaining and using the framework to deploy mobile robots in extreme conditions, recently featured in Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned and Lidar Scan Registration Robust to Extreme Motions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-04T17:09:20Z",
+            "owner": "norlab-ulaval",
+            "repo": "norlab_icp_mapper",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyro",
+          "description": "An object-based toolbox for robot dynamic simulation, analysis, control and planning. Developed by USherbrooke's Createk for their research on dynamic systems' design, control, simulation and planning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-30T00:18:55Z",
+            "owner": "SherbyRobotics",
+            "repo": "pyro",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clearpath_common",
+          "description": "A collection of ROS packages and configuration files maintained by Clearpath Robotics to support their fleet of mobile robots for research and industrial applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:02:27Z",
+            "owner": "clearpathrobotics",
+            "repo": "clearpath_common",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weather Invariant Lidar-based Navigation (WILN)",
+          "description": "A lidar-based Teach-and-Repeat framework designed to enable outdoor autonomous navigation in harsh weather. Norlab is maintaining and using the framework to deploy mobile robots in harsh weather, recently featured in Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-18T21:54:03Z",
+            "owner": "norlab-ulaval",
+            "repo": "wiln",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mrasl_mav_traj",
+          "description": "Trajectory utilities for Micro UAVs (MAVs). Maintained by the lab MRASL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-07-16T19:13:32Z",
+            "owner": "MRASL",
+            "repo": "mrasl_mav_traj",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Open-Source Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Forest image (PercepTree) datasets",
+          "description": "This repository contains two datasets: a 43,000 synthetic forest images and a 100 real image dataset. Both include high-definition RGB images with depth information, bounding box, instance segmentation masks and keypoints annotation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T16:04:29Z",
+            "owner": "norlab-ulaval",
+            "repo": "PercepTreeV1",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Montmorency Forest Wintertime Dataset",
+          "description": "The dataset was collected in the Montmorency subarctic forest and presents fluctuating weather, including light and heavy snow, rain, and drizzle. It contains 18.8km of autonomous navigation in a teach-and-repeat mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-06-29T12:07:55Z",
+            "owner": "norlab-ulaval",
+            "repo": "Norlab_wiki",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "University of Toronto Indoor 3D Dataset",
+          "description": "This repository contains a robot navigation dataset in crowded indoor environment. It includes the lidar frames, their localization computed by ICP based algorithm PointMap, and the labels provided by automated annotation approach. It was introduced in Learning Spatiotemporal Occupancy Grid Maps for Lifelong Navigation in Dynamic Scenes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-18T20:29:44Z",
+            "owner": "utiasASRL",
+            "repo": "UTIn3D",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "The Boreas Dataset",
+          "description": "Dataset collected by driving a repeated route over the course of 1 year, resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data, including several sequences with adverse weather conditions such as rain and heavy snow.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyboreas",
+              "description": "Devkit for the Boreas autonomous driving dataset.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T19:10:41Z",
+                "owner": "utiasASRL",
+                "repo": "pyboreas",
+                "stars": 120
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "The Canadian Planetary Emulation Terrain Energy-Aware Rover Navigation () Dataset",
+          "description": "Developed by UToronto's STARS Lab, the Energy-Aware Planetary Navigation Dataset has 1.2 km of data from a typical rover's sensor payload. The goal of this dataset is to promote rover energy management strategies for future exploratory missions to the Moon and Mars. Introduced in The Canadian Planetary Emulation Terrain Energy-Aware Rover Navigation Dataset.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "enav-planetary-dataset",
+              "description": "ROS packages to visualize and interact with the data in RViz, helper scripts in Python to fetch and plot data from the rosbags.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-09T23:10:58Z",
+                "owner": "utiasSTARS",
+                "repo": "enav-planetary-dataset",
+                "stars": 36
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Precise Synthetic Image and LiDAR Dataset for Autonomous Vehicle Perception (presil)",
+          "description": "The dataset contains over 50,000 instances and includes high-definition images with full resolution depth information, semantic segmentation (images), point-wise segmentation (point clouds), ground point labels (point clouds), and detailed annotations for vehicles and people in Grand Theft Auto V (GTA V), a commercial video game.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DeepGTAV-PreSIL",
+              "description": "Data generation code used to mine data from GTAV.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2019-09-03T19:13:52Z",
+                "owner": "bradenhurl",
+                "repo": "DeepGTAV-PreSIL",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PreSIL-tools",
+              "description": "Scripts for generating ground planes, splits, and visualizations from the data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-06-07T21:25:54Z",
+                "owner": "bradenhurl",
+                "repo": "PreSIL-tools",
+                "stars": 8
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "Companies with their primary mission focusing on robotics and registered in Canada. You need at least ten (10) employees and be in operation for at least five (5) years to be listed here. The list is sorted by alphabetical order.",
+      "items": [],
+      "title": "Companies"
+    },
+    {
+      "description": "To be on this list, the director has to have at least 1000 citations on Google Scholar. The list is sorted by alphabetical order.",
+      "items": [],
+      "title": "Laboratories"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Robotics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-10T07:45:21Z",
+            "owner": "ahundt",
+            "repo": "awesome-robotics",
+            "stars": 1470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LIDAR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-16T09:19:48Z",
+            "owner": "szenergy",
+            "repo": "awesome-lidar",
+            "stars": 1319
+          }
+        }
+      ],
+      "title": "Awesome Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:25:48.707Z",
+    "original_repository": "norlab-ulaval/awesome-canadian-robotics",
+    "original_repository_sha": "ccb807018e9ff9fef9d83359a3c26f3dd685f65b",
+    "enhanced_repository": "enhansome/enhansome-canadian-robotics",
+    "enhanced_repository_description": null,
+    "title": "Awesome Canadian Robotics with stars"
+  }
+}
