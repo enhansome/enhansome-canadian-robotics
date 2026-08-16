@@ -300,7 +300,7 @@
             "last_commit": "2024-01-10T07:45:21Z",
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1474
+            "stars": 1475
           }
         },
         {
@@ -322,7 +322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:53:29.190Z",
+    "last_updated": "2026-08-16T20:52:41.337Z",
     "original_repository": "norlab-ulaval/awesome-canadian-robotics",
     "original_repository_sha": "ccb807018e9ff9fef9d83359a3c26f3dd685f65b",
     "enhanced_repository": "enhansome/enhansome-canadian-robotics",
