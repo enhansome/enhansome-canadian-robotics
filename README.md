@@ -46,11 +46,11 @@ The list is sorted by number of stars.
 
 * [norlab\_icp\_mapper](https://github.com/norlab-ulaval/norlab_icp_mapper) ⭐ 70 | 🐛 7 | 🌐 C++ | 📅 2025-09-04 - A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in extreme conditions, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr) and [Lidar Scan Registration Robust to Extreme Motions](https://norlab.ulaval.ca/publications/extreme-motions). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/norlab_icp_mapper?style=social)](https://github.com/norlab-ulaval/norlab_icp_mapper/stargazers) ⭐ 70 | 🐛 7 | 🌐 C++ | 📅 2025-09-04</p>
 
+* [clearpath\_common](https://github.com/clearpathrobotics/clearpath_common) ⭐ 58 | 🐛 9 | 🌐 Python | 📅 2026-08-17 - A collection of ROS packages and configuration files maintained by [Clearpath Robotics](https://clearpathrobotics.com) to support their fleet of mobile robots for research and industrial applications. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/clearpathrobotics/clearpath_common?style=social)](https://github.com/clearpathrobotics/clearpath_common/stargazers) ⭐ 58 | 🐛 9 | 🌐 Python | 📅 2026-08-17</p>
+
 * [pyro](https://github.com/SherbyRobotics/pyro) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-05-30 - An object-based toolbox for robot dynamic simulation, analysis, control and planning. Developed by USherbrooke's [Createk](https://www.createk.co) for their research on dynamic systems' design, control, simulation and planning. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SherbyRobotics/pyro?style=social)](https://github.com/SherbyRobotics/pyro/stargazers) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-05-30</p>
 
-* [clearpath\_common](https://github.com/clearpathrobotics/clearpath_common) ⭐ 57 | 🐛 9 | 🌐 Python | 📅 2026-08-14 - A collection of ROS packages and configuration files maintained by [Clearpath Robotics](https://clearpathrobotics.com) to support their fleet of mobile robots for research and industrial applications. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/clearpathrobotics/clearpath_common?style=social)](https://github.com/clearpathrobotics/clearpath_common/stargazers) ⭐ 57 | 🐛 9 | 🌐 Python | 📅 2026-08-14</p>
-
-* [Weather Invariant Lidar-based Navigation (WILN)](https://github.com/norlab-ulaval/wiln) ⭐ 33 | 🐛 8 | 🌐 C++ | 📅 2026-07-18 - A lidar-based Teach-and-Repeat framework designed to enable outdoor autonomous navigation in harsh weather. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in harsh weather, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/wiln?style=social)](https://github.com/norlab-ulaval/wiln/stargazers) ⭐ 33 | 🐛 8 | 🌐 C++ | 📅 2026-07-18 </p>
+* [Weather Invariant Lidar-based Navigation (WILN)](https://github.com/norlab-ulaval/wiln) ⭐ 33 | 🐛 8 | 🌐 C++ | 📅 2026-08-17 - A lidar-based Teach-and-Repeat framework designed to enable outdoor autonomous navigation in harsh weather. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in harsh weather, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/wiln?style=social)](https://github.com/norlab-ulaval/wiln/stargazers) ⭐ 33 | 🐛 8 | 🌐 C++ | 📅 2026-08-17 </p>
 
 * [mrasl\_mav\_traj](https://github.com/MRASL/mrasl_mav_traj) ⭐ 30 | 🐛 3 | 🌐 C++ | 📅 2017-07-16 - Trajectory utilities for Micro UAVs (MAVs). Maintained by the lab [MRASL](http://www.polymtl.ca/robotique-mobile/en). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/MRASL/mrasl_mav_traj?style=social)](https://github.com/MRASL/mrasl_mav_traj/stargazers) ⭐ 30 | 🐛 3 | 🌐 C++ | 📅 2017-07-16</p>
 
@@ -361,8 +361,8 @@ The list is sorted by alphabetical order.
 
 ### Awesome Lists
 
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,475 | 🐛 8 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,321 | 🐛 0 | 📅 2026-03-16
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,476 | 🐛 8 | 📅 2024-01-10
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,322 | 🐛 0 | 📅 2026-03-16
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
