@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T14:28:17Z",
+            "last_commit": "2026-08-18T01:24:23Z",
             "owner": "utiasASRL",
             "repo": "vtr3",
             "stars": 151
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T16:43:57Z",
+            "last_commit": "2026-08-18T15:30:38Z",
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
             "stars": 58
@@ -322,7 +322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:57:43.703Z",
+    "last_updated": "2026-08-18T20:54:02.218Z",
     "original_repository": "norlab-ulaval/awesome-canadian-robotics",
     "original_repository_sha": "ccb807018e9ff9fef9d83359a3c26f3dd685f65b",
     "enhanced_repository": "enhansome/enhansome-canadian-robotics",
