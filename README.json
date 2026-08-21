@@ -42,7 +42,7 @@
             "archived": false,
             "id": 265063809,
             "language": "C++",
-            "last_commit": "2026-08-20T15:49:11Z",
+            "last_commit": "2026-08-21T15:54:44Z",
             "owner": "utiasASRL",
             "repo": "vtr3",
             "stars": 151
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-11T19:49:59Z",
             "owner": "SFU-MARS",
             "repo": "optimized_dp",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 5440338,
             "language": "Python",
-            "last_commit": "2026-08-20T20:22:06Z",
+            "last_commit": "2026-08-21T15:29:28Z",
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
             "stars": 58
@@ -320,7 +320,7 @@
                 "last_commit": "2026-03-16T09:19:48Z",
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
-                "stars": 1327
+                "stars": 1326
               }
             }
           ],
@@ -333,7 +333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:59:26.706Z",
+    "last_updated": "2026-08-21T20:54:03.326Z",
     "original_repository": "norlab-ulaval/awesome-canadian-robotics",
     "original_repository_id": 540616786,
     "original_repository_sha": "ccb807018e9ff9fef9d83359a3c26f3dd685f65b",
