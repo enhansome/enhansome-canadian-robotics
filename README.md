@@ -38,7 +38,7 @@ The list is sorted by number of stars.
 
 * [ros\_kortex](https://github.com/Kinovarobotics/ros_kortex) ⭐ 217 | 🐛 18 | 🌐 C++ | 📅 2026-01-26 - Official ROS packages to interface with Kinova's KORTEX platform, supporting control, feedback, and example applications for Kinova Gen3 and Gen3 Lite robotic arms. Developed and maintained by [Kinova Robotics](https://www.kinovarobotics.com).  <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/Kinovarobotics/ros_kortex?style=social)](https://github.com/Kinovarobotics/ros_kortex/stargazers) ⭐ 217 | 🐛 18 | 🌐 C++ | 📅 2026-01-26</p>
 
-* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-08-22 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-08-22</p>
+* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-08-23 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-08-23</p>
 
 * [optimized\_dp](https://github.com/SFU-MARS/optimized_dp) ⭐ 141 | 🐛 10 | 🌐 Python | 📅 2026-07-11 - Optimizing Dynamic Programming-Based Algorithms Resources. [SFU-MARS](https://sfumars.com/research) is maintaining this library for their research on principled robot decision making ombining traditional analytical methods in robotics and modern data-driven techniques. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SFU-MARS/optimized_dp?style=social)](https://github.com/SFU-MARS/optimized_dp/stargazers) ⭐ 141 | 🐛 10 | 🌐 Python | 📅 2026-07-11</p>
 
@@ -72,7 +72,7 @@ The list is sorted by number of stars.
   * [enav-planetary-dataset](https://github.com/utiasSTARS/enav-planetary-dataset) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2025-01-09 - ROS packages to visualize and interact with the data in RViz, helper scripts in Python to fetch and plot data from the rosbags. [![GitHub Repo stars](https://img.shields.io/github/stars/utiasSTARS/enav-planetary-dataset?style=social)](https://github.com/utiasSTARS/enav-planetary-dataset/stargazers) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2025-01-09
 * [The Montmorency dataset](https://norlab.ulaval.ca/research/montmorencydataset) - The dataset contains the ground truth species, diameter at breast height (DBH) and position of more than 1000 trees across four forests, as well as 11 trajectories of a lidar-equipped robot going through these forests.
 * [Precise Synthetic Image and LiDAR Dataset for Autonomous Vehicle Perception (presil)](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/projects/precise-synthetic-image-and-lidar-presil-dataset-autonomous) - The dataset contains over 50,000 instances and includes high-definition images with full resolution depth information, semantic segmentation (images), point-wise segmentation (point clouds), ground point labels (point clouds), and detailed annotations for vehicles and people in Grand Theft Auto V (GTA V), a commercial video game.
-  * [DeepGTAV-PreSIL](https://github.com/bradenhurl/DeepGTAV-PreSIL) ⭐ 91 | 🐛 22 | 🌐 C++ | 📅 2019-09-03 - Data generation code used to mine data from GTAV. [![GitHub Repo stars](https://img.shields.io/github/stars/bradenhurl/DeepGTAV-PreSIL?style=social)](https://github.com/bradenhurl/DeepGTAV-PreSIL/stargazers) ⭐ 91 | 🐛 22 | 🌐 C++ | 📅 2019-09-03
+  * [DeepGTAV-PreSIL](https://github.com/bradenhurl/DeepGTAV-PreSIL) ⭐ 90 | 🐛 22 | 🌐 C++ | 📅 2019-09-03 - Data generation code used to mine data from GTAV. [![GitHub Repo stars](https://img.shields.io/github/stars/bradenhurl/DeepGTAV-PreSIL?style=social)](https://github.com/bradenhurl/DeepGTAV-PreSIL/stargazers) ⭐ 90 | 🐛 22 | 🌐 C++ | 📅 2019-09-03
   * [PreSIL-tools](https://github.com/bradenhurl/PreSIL-tools) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2019-06-07 - Scripts for generating ground planes, splits, and visualizations from the data. [![GitHub Repo stars](https://img.shields.io/github/stars/bradenhurl/PreSIL-tools?style=social)](https://github.com/bradenhurl/PreSIL-tools/stargazers) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2019-06-07
 
 ## Companies
@@ -361,8 +361,8 @@ The list is sorted by alphabetical order.
 
 ### Awesome Lists
 
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,477 | 🐛 8 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,327 | 🐛 0 | 📅 2026-03-16
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,478 | 🐛 8 | 📅 2024-01-10
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,328 | 🐛 0 | 📅 2026-03-16
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
