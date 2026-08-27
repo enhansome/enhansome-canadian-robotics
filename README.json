@@ -42,7 +42,7 @@
             "archived": false,
             "id": 265063809,
             "language": "C++",
-            "last_commit": "2026-08-26T15:39:49Z",
+            "last_commit": "2026-08-27T04:03:21Z",
             "owner": "utiasASRL",
             "repo": "vtr3",
             "stars": 151
@@ -333,9 +333,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:01:32.113Z",
-    "original_repository": "norlab-ulaval/awesome-canadian-robotics",
-    "original_repository_id": 540616786,
+    "last_updated": "2026-08-27T11:27:25.809Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 540616786,
+      "language": null,
+      "last_commit": "2026-03-26T10:04:59Z",
+      "owner": "norlab-ulaval",
+      "repo": "awesome-canadian-robotics",
+      "stars": 72
+    },
     "original_repository_sha": "ccb807018e9ff9fef9d83359a3c26f3dd685f65b",
     "enhanced_repository": "enhansome/enhansome-canadian-robotics",
     "enhanced_repository_description": null,
