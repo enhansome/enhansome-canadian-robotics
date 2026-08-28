@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1266625,
             "language": "C++",
-            "last_commit": "2025-10-29T18:18:13Z",
+            "last_commit": "2026-08-27T14:20:25Z",
             "owner": "norlab-ulaval",
             "repo": "libpointmatcher",
             "stars": 1828
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Kinovarobotics",
             "repo": "ros_kortex",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 265063809,
             "language": "C++",
-            "last_commit": "2026-08-27T04:03:21Z",
+            "last_commit": "2026-08-27T20:50:03Z",
             "owner": "utiasASRL",
             "repo": "vtr3",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "SFU-MARS",
             "repo": "optimized_dp",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "nickcharron",
             "repo": "lidar_snow_removal",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "norlab-ulaval",
             "repo": "norlab_icp_mapper",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 5440338,
             "language": "Python",
-            "last_commit": "2026-08-24T15:28:30Z",
+            "last_commit": "2026-08-27T15:54:09Z",
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
-            "stars": 58
-          }
+            "stars": 59
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "SherbyRobotics",
             "repo": "pyro",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "norlab-ulaval",
             "repo": "wiln",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "MRASL",
             "repo": "mrasl_mav_traj",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         }
       ],
       "title": "Open-Source Software"
@@ -172,7 +182,8 @@
             "owner": "norlab-ulaval",
             "repo": "PercepTreeV1",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "norlab-ulaval",
             "repo": "Norlab_wiki",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "utiasASRL",
             "repo": "UTIn3D",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T04:27:03.489Z"
         },
         {
           "node_type": "group",
@@ -222,7 +235,8 @@
                 "owner": "utiasASRL",
                 "repo": "pyboreas",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T04:27:03.489Z"
             }
           ]
         },
@@ -244,7 +258,8 @@
                 "owner": "utiasSTARS",
                 "repo": "enav-planetary-dataset",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T04:27:03.489Z"
             }
           ]
         },
@@ -266,7 +281,8 @@
                 "owner": "bradenhurl",
                 "repo": "DeepGTAV-PreSIL",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T04:27:03.489Z"
             },
             {
               "node_type": "item",
@@ -281,7 +297,8 @@
                 "owner": "bradenhurl",
                 "repo": "PreSIL-tools",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:27:03.489Z"
             }
           ]
         }
@@ -306,7 +323,8 @@
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
                 "stars": 1479
-              }
+              },
+              "first_seen": "2026-08-28T04:27:03.489Z"
             },
             {
               "node_type": "item",
@@ -321,7 +339,8 @@
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
                 "stars": 1331
-              }
+              },
+              "first_seen": "2026-08-28T04:27:03.489Z"
             }
           ],
           "description": null,
@@ -333,7 +352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:25.809Z",
+    "last_updated": "2026-08-28T04:27:03.489Z",
     "original_repository_info": {
       "archived": false,
       "id": 540616786,

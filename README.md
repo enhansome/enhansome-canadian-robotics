@@ -34,7 +34,7 @@ We added abitrary criterias to be listed here with the intention to be transpare
 You need at least 15 stars on your repository to be listed here.
 The list is sorted by number of stars.
 
-* [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) ⭐ 1,828 | 🐛 100 | 🌐 C++ | 📅 2025-10-29 - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics in C++. [Norlab](https://norlab.ulaval.ca) is maintaining and using the library for their research on autonomous navigation in harsh environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?style=social)](https://github.com/ethz-asl/libpointmatcher/stargazers) ⭐ 1,828 | 🐛 100 | 🌐 C++ | 📅 2025-10-29</p>
+* [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) ⭐ 1,828 | 🐛 100 | 🌐 C++ | 📅 2026-08-27 - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics in C++. [Norlab](https://norlab.ulaval.ca) is maintaining and using the library for their research on autonomous navigation in harsh environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?style=social)](https://github.com/ethz-asl/libpointmatcher/stargazers) ⭐ 1,828 | 🐛 100 | 🌐 C++ | 📅 2026-08-27</p>
 
 * [ros\_kortex](https://github.com/Kinovarobotics/ros_kortex) ⭐ 217 | 🐛 18 | 🌐 C++ | 📅 2026-01-26 - Official ROS packages to interface with Kinova's KORTEX platform, supporting control, feedback, and example applications for Kinova Gen3 and Gen3 Lite robotic arms. Developed and maintained by [Kinova Robotics](https://www.kinovarobotics.com).  <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/Kinovarobotics/ros_kortex?style=social)](https://github.com/Kinovarobotics/ros_kortex/stargazers) ⭐ 217 | 🐛 18 | 🌐 C++ | 📅 2026-01-26</p>
 
@@ -46,7 +46,7 @@ The list is sorted by number of stars.
 
 * [norlab\_icp\_mapper](https://github.com/norlab-ulaval/norlab_icp_mapper) ⭐ 70 | 🐛 7 | 🌐 C++ | 📅 2025-09-04 - A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in extreme conditions, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr) and [Lidar Scan Registration Robust to Extreme Motions](https://norlab.ulaval.ca/publications/extreme-motions). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/norlab_icp_mapper?style=social)](https://github.com/norlab-ulaval/norlab_icp_mapper/stargazers) ⭐ 70 | 🐛 7 | 🌐 C++ | 📅 2025-09-04</p>
 
-* [clearpath\_common](https://github.com/clearpathrobotics/clearpath_common) ⭐ 58 | 🐛 10 | 🌐 Python | 📅 2026-08-24 - A collection of ROS packages and configuration files maintained by [Clearpath Robotics](https://clearpathrobotics.com) to support their fleet of mobile robots for research and industrial applications. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/clearpathrobotics/clearpath_common?style=social)](https://github.com/clearpathrobotics/clearpath_common/stargazers) ⭐ 58 | 🐛 10 | 🌐 Python | 📅 2026-08-24</p>
+* [clearpath\_common](https://github.com/clearpathrobotics/clearpath_common) ⭐ 59 | 🐛 10 | 🌐 Python | 📅 2026-08-27 - A collection of ROS packages and configuration files maintained by [Clearpath Robotics](https://clearpathrobotics.com) to support their fleet of mobile robots for research and industrial applications. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/clearpathrobotics/clearpath_common?style=social)](https://github.com/clearpathrobotics/clearpath_common/stargazers) ⭐ 59 | 🐛 10 | 🌐 Python | 📅 2026-08-27</p>
 
 * [pyro](https://github.com/SherbyRobotics/pyro) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-05-30 - An object-based toolbox for robot dynamic simulation, analysis, control and planning. Developed by USherbrooke's [Createk](https://www.createk.co) for their research on dynamic systems' design, control, simulation and planning. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SherbyRobotics/pyro?style=social)](https://github.com/SherbyRobotics/pyro/stargazers) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-05-30</p>
 
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
