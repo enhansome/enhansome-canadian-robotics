@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics",
+            "homepage": "https://libpointmatcher.readthedocs.io/en/latest/",
             "id": 1266625,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T14:20:25Z",
+            "open_issues": 100,
             "owner": "norlab-ulaval",
             "repo": "libpointmatcher",
-            "stars": 1829
+            "stars": 1829,
+            "topics": [
+              "libnabo",
+              "libpointmatcher",
+              "lidar",
+              "point-clouds",
+              "robotics",
+              "ros",
+              "ubuntu"
+            ]
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS packages for KINOVA® KORTEX™ robotic arms",
+            "homepage": null,
             "id": 160873090,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-26T17:38:43Z",
+            "open_issues": 18,
             "owner": "Kinovarobotics",
             "repo": "ros_kortex",
-            "stars": 217
+            "stars": 217,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -42,12 +60,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VT&R3 is a C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.",
+            "homepage": null,
             "id": 265063809,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:46:50Z",
+            "open_issues": 14,
             "owner": "utiasASRL",
             "repo": "vtr3",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "robotics",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -58,12 +84,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimizing Dynamic Programming-Based Algorithms",
+            "homepage": null,
             "id": 233897290,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-11T19:49:59Z",
+            "open_issues": 10,
             "owner": "SFU-MARS",
             "repo": "optimized_dp",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -74,12 +105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo is a set of nodes for ROS to filter point clouds with the goal of removing snow in Lidar data.",
+            "homepage": null,
             "id": 109029014,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-05-04T04:48:00Z",
+            "open_issues": 0,
             "owner": "nickcharron",
             "repo": "lidar_snow_removal",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -90,12 +126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 2-D/3-D mapping library relying on the \"Iterative Closest Point\" algorithm",
+            "homepage": "https://norlab-icp-mapper.readthedocs.io/en/latest/",
             "id": 233678754,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-09-04T17:09:20Z",
+            "open_issues": 7,
             "owner": "norlab-ulaval",
             "repo": "norlab_icp_mapper",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -106,12 +147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://docs.clearpathrobotics.com/",
             "id": 5440338,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T15:54:09Z",
+            "open_issues": 10,
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -122,12 +168,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An object-based toolbox for robot dynamic simulation, analysis, control and planning. ",
+            "homepage": null,
             "id": 153139985,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-30T00:18:55Z",
+            "open_issues": 11,
             "owner": "SherbyRobotics",
             "repo": "pyro",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "analysis",
+              "closed-loop-control",
+              "control-systems",
+              "dynamic-programming",
+              "dynamics",
+              "optimal",
+              "optimal-control",
+              "planning-algorithms",
+              "python",
+              "reinforcement-learning",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -138,12 +201,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lidar-based Teach-and-Repeat framework designed to enable outdoor autonomous navigation in harsh weather.",
+            "homepage": null,
             "id": 215540586,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-17T19:14:15Z",
+            "open_issues": 8,
             "owner": "norlab-ulaval",
             "repo": "wiln",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "forest",
+              "icp",
+              "imu",
+              "lidar",
+              "navigation",
+              "path-following",
+              "robotics",
+              "ros",
+              "slam",
+              "teach-and-repeat",
+              "winter"
+            ]
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -154,12 +234,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trajectory utilities for MAVs",
+            "homepage": null,
             "id": 90100264,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2017-07-16T19:13:32Z",
+            "open_issues": 3,
             "owner": "MRASL",
             "repo": "mrasl_mav_traj",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "mav",
+              "optimization",
+              "ros",
+              "trajectory-generation",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         }
@@ -176,12 +267,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Grondin et al. 2022 \"Tree Detection and Diameter Estimation Based on Deep Learning\". Also includes datasets and some of the pretrained models.",
+            "homepage": null,
             "id": 491705537,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-17T16:04:29Z",
+            "open_issues": 5,
             "owner": "norlab-ulaval",
             "repo": "PercepTreeV1",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "computer-vision",
+              "datasets",
+              "forestry"
+            ]
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -192,12 +292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 418556519,
             "language": "TeX",
+            "license": null,
             "last_commit": "2026-08-24T14:41:18Z",
+            "open_issues": 6,
             "owner": "norlab-ulaval",
             "repo": "Norlab_wiki",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -208,12 +313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UofT-Indoor-3D Dataset",
+            "homepage": null,
             "id": 514298988,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-18T20:29:44Z",
+            "open_issues": 0,
             "owner": "utiasASRL",
             "repo": "UTIn3D",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -229,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Devkit for the Boreas autonomous driving dataset.",
+                "homepage": null,
                 "id": 375789247,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-07T19:10:41Z",
+                "open_issues": 5,
                 "owner": "utiasASRL",
                 "repo": "pyboreas",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:03.489Z"
             }
@@ -252,12 +367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Energy-Aware Planetary Navigation Dataset",
+                "homepage": null,
                 "id": 236541425,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-09T23:10:58Z",
+                "open_issues": 0,
                 "owner": "utiasSTARS",
                 "repo": "enav-planetary-dataset",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:03.489Z"
             }
@@ -275,12 +395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 119329014,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2019-09-03T19:13:52Z",
+                "open_issues": 22,
                 "owner": "bradenhurl",
                 "repo": "DeepGTAV-PreSIL",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:03.489Z"
             },
@@ -291,12 +416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for the Precise Synthetic Image and LiDAR (PreSIL) Dataset for Autonomous Vehicle Perception",
+                "homepage": null,
                 "id": 190807110,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-06-07T21:25:54Z",
+                "open_issues": 2,
                 "owner": "bradenhurl",
                 "repo": "PreSIL-tools",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:03.489Z"
             }
@@ -317,12 +447,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome links and software libraries that are useful for robots.",
+                "homepage": null,
                 "id": 91040492,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-10T07:45:21Z",
+                "open_issues": 8,
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
-                "stars": 1480
+                "stars": 1480,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "datasets",
+                  "deep-learning",
+                  "image-segmentation",
+                  "list",
+                  "lists",
+                  "machine-learning",
+                  "optimization",
+                  "optimization-algorithms",
+                  "physics",
+                  "planning-algorithms",
+                  "point-cloud",
+                  "reinforcement-learning",
+                  "robot",
+                  "robotics",
+                  "ros",
+                  "sensors",
+                  "simulation",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:27:03.489Z"
             },
@@ -333,12 +489,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.",
+                "homepage": "https://szenergy.github.io/awesome-lidar/",
                 "id": 255347464,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-16T09:19:48Z",
+                "open_issues": 0,
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
-                "stars": 1332
+                "stars": 1332,
+                "topics": [
+                  "3d",
+                  "3d-lidar",
+                  "autonomous-driving",
+                  "awesome",
+                  "awesome-list",
+                  "lidar",
+                  "obstacle-detection",
+                  "point-cloud",
+                  "pointcloud",
+                  "simulator",
+                  "slam",
+                  "sze",
+                  "szegyetem",
+                  "szenergy"
+                ]
               },
               "first_seen": "2026-08-28T04:27:03.489Z"
             }
@@ -352,15 +528,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:54:01.460Z",
+    "last_updated": "2026-08-29T05:01:03.379Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
+      "homepage": null,
       "id": 540616786,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-26T10:04:59Z",
+      "open_issues": 11,
       "owner": "norlab-ulaval",
       "repo": "awesome-canadian-robotics",
-      "stars": 72
+      "stars": 72,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "canada",
+        "robotics"
+      ]
     },
     "original_repository_sha": "ccb807018e9ff9fef9d83359a3c26f3dd685f65b",
     "enhanced_repository": "enhansome/enhansome-canadian-robotics",
