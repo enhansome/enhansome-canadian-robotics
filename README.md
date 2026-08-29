@@ -34,11 +34,11 @@ We added abitrary criterias to be listed here with the intention to be transpare
 You need at least 15 stars on your repository to be listed here.
 The list is sorted by number of stars.
 
-* [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) ⭐ 1,828 | 🐛 100 | 🌐 C++ | 📅 2026-08-27 - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics in C++. [Norlab](https://norlab.ulaval.ca) is maintaining and using the library for their research on autonomous navigation in harsh environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?style=social)](https://github.com/ethz-asl/libpointmatcher/stargazers) ⭐ 1,828 | 🐛 100 | 🌐 C++ | 📅 2026-08-27</p>
+* [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) ⭐ 1,829 | 🐛 100 | 🌐 C++ | 📅 2026-08-27 - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics in C++. [Norlab](https://norlab.ulaval.ca) is maintaining and using the library for their research on autonomous navigation in harsh environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?style=social)](https://github.com/ethz-asl/libpointmatcher/stargazers) ⭐ 1,829 | 🐛 100 | 🌐 C++ | 📅 2026-08-27</p>
 
 * [ros\_kortex](https://github.com/Kinovarobotics/ros_kortex) ⭐ 217 | 🐛 18 | 🌐 C++ | 📅 2026-01-26 - Official ROS packages to interface with Kinova's KORTEX platform, supporting control, feedback, and example applications for Kinova Gen3 and Gen3 Lite robotic arms. Developed and maintained by [Kinova Robotics](https://www.kinovarobotics.com).  <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/Kinovarobotics/ros_kortex?style=social)](https://github.com/Kinovarobotics/ros_kortex/stargazers) ⭐ 217 | 🐛 18 | 🌐 C++ | 📅 2026-01-26</p>
 
-* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-08-27 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-08-27</p>
+* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-08-28 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-08-28</p>
 
 * [optimized\_dp](https://github.com/SFU-MARS/optimized_dp) ⭐ 141 | 🐛 10 | 🌐 Python | 📅 2026-07-11 - Optimizing Dynamic Programming-Based Algorithms Resources. [SFU-MARS](https://sfumars.com/research) is maintaining this library for their research on principled robot decision making ombining traditional analytical methods in robotics and modern data-driven techniques. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SFU-MARS/optimized_dp?style=social)](https://github.com/SFU-MARS/optimized_dp/stargazers) ⭐ 141 | 🐛 10 | 🌐 Python | 📅 2026-07-11</p>
 
@@ -65,7 +65,7 @@ The list is sorted by number of stars.
 * [The Montmorency Forest Wintertime Dataset](https://github.com/norlab-ulaval/Norlab_wiki/wiki/Montmorency-Forest-Wintertime-Dataset) ⭐ 25 | 🐛 6 | 🌐 TeX | 📅 2026-08-24 - The dataset was collected in the Montmorency subarctic forest and presents fluctuating weather, including light and heavy snow, rain, and drizzle. It contains 18.8km of autonomous navigation in a teach-and-repeat mode.
 * [University of Toronto Indoor 3D Dataset](https://github.com/utiasASRL/UTIn3D) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-07-18 - This repository contains a robot navigation dataset in crowded indoor environment. It includes the lidar frames, their localization computed by ICP based algorithm PointMap, and the labels provided by automated annotation approach. It was introduced in [Learning Spatiotemporal Occupancy Grid Maps for Lifelong Navigation in Dynamic Scenes](https://arxiv.org/pdf/2108.10585.pdf). ![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/UTIn3D?style=social)
 * [The Boreas Dataset](https://www.boreas.utias.utoronto.ca) - Dataset collected by driving a repeated route over the course of 1 year, resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data, including several sequences with adverse weather conditions such as rain and heavy snow.
-  * [pyboreas](https://github.com/utiasASRL/pyboreas) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2026-08-07 - Devkit for the Boreas autonomous driving dataset. [![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/pyboreas?style=social)](https://github.com/utiasASRL/pyboreas/stargazers) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2026-08-07
+  * [pyboreas](https://github.com/utiasASRL/pyboreas) ⭐ 122 | 🐛 5 | 🌐 Python | 📅 2026-08-07 - Devkit for the Boreas autonomous driving dataset. [![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/pyboreas?style=social)](https://github.com/utiasASRL/pyboreas/stargazers) ⭐ 122 | 🐛 5 | 🌐 Python | 📅 2026-08-07
 * [The Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca) -  The CADC dataset, collected during winter within the Region of Waterloo, Canada, aims to promote research to improve self-driving in adverse weather conditions.
 * [Leddar PixSet Dataset](https://leddartech.com/solutions/leddar-pixset-dataset/) - The First Full-Waveform Flash LIDAR Dataset for Autonomous Vehicle R\&D. The PixSet dataset contains 97 sequences for a total of roughly 29k frames using the AV sensor suite. Each frame has been manually annotated with 3D bounding boxes. The sequences have been gathered in various Canadian environments (e.g., urban, suburban like highway), climatic (e.g., sunny, cloudy, rainy) conditions and illumination (e.g., day, night, twilight) conditions with an instrumented vehicle.
 * [The Canadian Planetary Emulation Terrain Energy-Aware Rover Navigation (`enav-planetary`) Dataset](https://starslab.ca/enav-planetary-dataset) - Developed by UToronto's STARS Lab, the Energy-Aware Planetary Navigation Dataset has 1.2 km of data from a typical rover's sensor payload. The goal of this dataset is to promote rover energy management strategies for future exploratory missions to the Moon and Mars. Introduced in [The Canadian Planetary Emulation Terrain Energy-Aware Rover Navigation Dataset](https://doi.org/10.1177/0278364920908922).
@@ -361,8 +361,8 @@ The list is sorted by alphabetical order.
 
 ### Awesome Lists
 
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,479 | 🐛 8 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,331 | 🐛 0 | 📅 2026-03-16
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,480 | 🐛 8 | 📅 2024-01-10
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,332 | 🐛 0 | 📅 2026-03-16
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

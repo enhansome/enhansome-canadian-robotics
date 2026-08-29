@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T14:20:25Z",
             "owner": "norlab-ulaval",
             "repo": "libpointmatcher",
-            "stars": 1828
+            "stars": 1829
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
         },
@@ -44,7 +44,7 @@
             "archived": false,
             "id": 265063809,
             "language": "C++",
-            "last_commit": "2026-08-27T20:50:03Z",
+            "last_commit": "2026-08-28T15:46:50Z",
             "owner": "utiasASRL",
             "repo": "vtr3",
             "stars": 151
@@ -234,7 +234,7 @@
                 "last_commit": "2026-08-07T19:10:41Z",
                 "owner": "utiasASRL",
                 "repo": "pyboreas",
-                "stars": 121
+                "stars": 122
               },
               "first_seen": "2026-08-28T04:27:03.489Z"
             }
@@ -322,7 +322,7 @@
                 "last_commit": "2024-01-10T07:45:21Z",
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
-                "stars": 1479
+                "stars": 1480
               },
               "first_seen": "2026-08-28T04:27:03.489Z"
             },
@@ -338,7 +338,7 @@
                 "last_commit": "2026-03-16T09:19:48Z",
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
-                "stars": 1331
+                "stars": 1332
               },
               "first_seen": "2026-08-28T04:27:03.489Z"
             }
@@ -352,7 +352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:27:03.489Z",
+    "last_updated": "2026-08-29T02:54:01.460Z",
     "original_repository_info": {
       "archived": false,
       "id": 540616786,
