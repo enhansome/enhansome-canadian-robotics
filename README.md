@@ -46,7 +46,7 @@ The list is sorted by number of stars.
 
 * [norlab\_icp\_mapper](https://github.com/norlab-ulaval/norlab_icp_mapper) ⭐ 70 | 🐛 7 | 🌐 C++ | 📅 2025-09-04 - A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in extreme conditions, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr) and [Lidar Scan Registration Robust to Extreme Motions](https://norlab.ulaval.ca/publications/extreme-motions). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/norlab_icp_mapper?style=social)](https://github.com/norlab-ulaval/norlab_icp_mapper/stargazers) ⭐ 70 | 🐛 7 | 🌐 C++ | 📅 2025-09-04</p>
 
-* [clearpath\_common](https://github.com/clearpathrobotics/clearpath_common) ⭐ 59 | 🐛 10 | 🌐 Python | 📅 2026-08-27 - A collection of ROS packages and configuration files maintained by [Clearpath Robotics](https://clearpathrobotics.com) to support their fleet of mobile robots for research and industrial applications. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/clearpathrobotics/clearpath_common?style=social)](https://github.com/clearpathrobotics/clearpath_common/stargazers) ⭐ 59 | 🐛 10 | 🌐 Python | 📅 2026-08-27</p>
+* [clearpath\_common](https://github.com/clearpathrobotics/clearpath_common) ⭐ 59 | 🐛 7 | 🌐 Python | 📅 2026-08-31 - A collection of ROS packages and configuration files maintained by [Clearpath Robotics](https://clearpathrobotics.com) to support their fleet of mobile robots for research and industrial applications. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/clearpathrobotics/clearpath_common?style=social)](https://github.com/clearpathrobotics/clearpath_common/stargazers) ⭐ 59 | 🐛 7 | 🌐 Python | 📅 2026-08-31</p>
 
 * [pyro](https://github.com/SherbyRobotics/pyro) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-05-30 - An object-based toolbox for robot dynamic simulation, analysis, control and planning. Developed by USherbrooke's [Createk](https://www.createk.co) for their research on dynamic systems' design, control, simulation and planning. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SherbyRobotics/pyro?style=social)](https://github.com/SherbyRobotics/pyro/stargazers) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-05-30</p>
 
@@ -61,7 +61,7 @@ The list is sorted by number of stars.
 
 ## Datasets
 
-* [Forest image (PercepTree) datasets](https://github.com/norlab-ulaval/PercepTreeV1) ⭐ 108 | 🐛 5 | 🌐 Python | 📅 2024-12-17 - This repository contains two datasets: a 43,000 synthetic forest images and a 100 real image dataset. Both include high-definition RGB images with depth information, bounding box, instance segmentation masks and keypoints annotation. [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/PercepTreeV1?style=social)](\[\[https://github.com/norlab-ulaval/PercepTreeV1/stargazers]\(https://github.com/norlab-ulaval/PercepTreeV1\)]\(https://github.com/norlab-ulaval/PercepTreeV1\))
+* [Forest image (PercepTree) datasets](https://github.com/norlab-ulaval/PercepTreeV1) ⭐ 109 | 🐛 5 | 🌐 Python | 📅 2024-12-17 - This repository contains two datasets: a 43,000 synthetic forest images and a 100 real image dataset. Both include high-definition RGB images with depth information, bounding box, instance segmentation masks and keypoints annotation. [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/PercepTreeV1?style=social)](\[\[https://github.com/norlab-ulaval/PercepTreeV1/stargazers]\(https://github.com/norlab-ulaval/PercepTreeV1\)]\(https://github.com/norlab-ulaval/PercepTreeV1\))
 * [The Montmorency Forest Wintertime Dataset](https://github.com/norlab-ulaval/Norlab_wiki/wiki/Montmorency-Forest-Wintertime-Dataset) ⭐ 25 | 🐛 6 | 🌐 TeX | 📅 2026-08-24 - The dataset was collected in the Montmorency subarctic forest and presents fluctuating weather, including light and heavy snow, rain, and drizzle. It contains 18.8km of autonomous navigation in a teach-and-repeat mode.
 * [University of Toronto Indoor 3D Dataset](https://github.com/utiasASRL/UTIn3D) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-07-18 - This repository contains a robot navigation dataset in crowded indoor environment. It includes the lidar frames, their localization computed by ICP based algorithm PointMap, and the labels provided by automated annotation approach. It was introduced in [Learning Spatiotemporal Occupancy Grid Maps for Lifelong Navigation in Dynamic Scenes](https://arxiv.org/pdf/2108.10585.pdf). ![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/UTIn3D?style=social)
 * [The Boreas Dataset](https://www.boreas.utias.utoronto.ca) - Dataset collected by driving a repeated route over the course of 1 year, resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data, including several sequences with adverse weather conditions such as rain and heavy snow.
@@ -362,7 +362,7 @@ The list is sorted by alphabetical order.
 ### Awesome Lists
 
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,481 | 🐛 8 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,332 | 🐛 0 | 📅 2026-03-16
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,334 | 🐛 0 | 📅 2026-03-16
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

@@ -152,8 +152,8 @@
             "id": 5440338,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-27T15:54:09Z",
-            "open_issues": 10,
+            "last_commit": "2026-08-31T18:50:30Z",
+            "open_issues": 7,
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
             "stars": 59,
@@ -276,7 +276,7 @@
             "open_issues": 5,
             "owner": "norlab-ulaval",
             "repo": "PercepTreeV1",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "computer-vision",
               "datasets",
@@ -498,7 +498,7 @@
                 "open_issues": 0,
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
-                "stars": 1332,
+                "stars": 1334,
                 "topics": [
                   "3d",
                   "3d-lidar",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:54:46.768Z",
+    "last_updated": "2026-09-01T00:03:04.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
