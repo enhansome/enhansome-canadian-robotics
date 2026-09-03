@@ -152,7 +152,7 @@
             "id": 5440338,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-02T17:02:38Z",
+            "last_commit": "2026-09-03T19:06:14Z",
             "open_issues": 6,
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
@@ -495,7 +495,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-03-16T09:19:48Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
                 "stars": 1336,
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:48:40.588Z",
+    "last_updated": "2026-09-03T22:47:03.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
