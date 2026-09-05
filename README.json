@@ -65,7 +65,7 @@
             "id": 265063809,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T20:58:31Z",
+            "last_commit": "2026-09-05T01:12:07Z",
             "open_issues": 14,
             "owner": "utiasASRL",
             "repo": "vtr3",
@@ -498,7 +498,7 @@
                 "open_issues": 1,
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
-                "stars": 1336,
+                "stars": 1337,
                 "topics": [
                   "3d",
                   "3d-lidar",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:30:14.411Z",
+    "last_updated": "2026-09-05T22:13:31.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
@@ -540,7 +540,7 @@
       "open_issues": 11,
       "owner": "norlab-ulaval",
       "repo": "awesome-canadian-robotics",
-      "stars": 72,
+      "stars": 73,
       "topics": [
         "awesome",
         "awesome-list",

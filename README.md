@@ -38,7 +38,7 @@ The list is sorted by number of stars.
 
 * [ros\_kortex](https://github.com/Kinovarobotics/ros_kortex) ⭐ 218 | 🐛 18 | 🌐 C++ | 📅 2026-01-26 - Official ROS packages to interface with Kinova's KORTEX platform, supporting control, feedback, and example applications for Kinova Gen3 and Gen3 Lite robotic arms. Developed and maintained by [Kinova Robotics](https://www.kinovarobotics.com).  <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/Kinovarobotics/ros_kortex?style=social)](https://github.com/Kinovarobotics/ros_kortex/stargazers) ⭐ 218 | 🐛 18 | 🌐 C++ | 📅 2026-01-26</p>
 
-* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-09-04 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-09-04</p>
+* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-09-05 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 151 | 🐛 14 | 🌐 C++ | 📅 2026-09-05</p>
 
 * [optimized\_dp](https://github.com/SFU-MARS/optimized_dp) ⭐ 141 | 🐛 10 | 🌐 Python | 📅 2026-07-11 - Optimizing Dynamic Programming-Based Algorithms Resources. [SFU-MARS](https://sfumars.com/research) is maintaining this library for their research on principled robot decision making ombining traditional analytical methods in robotics and modern data-driven techniques. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SFU-MARS/optimized_dp?style=social)](https://github.com/SFU-MARS/optimized_dp/stargazers) ⭐ 141 | 🐛 10 | 🌐 Python | 📅 2026-07-11</p>
 
@@ -362,7 +362,7 @@ The list is sorted by alphabetical order.
 ### Awesome Lists
 
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,484 | 🐛 8 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,336 | 🐛 1 | 📅 2026-03-16
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,337 | 🐛 1 | 📅 2026-03-16
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
