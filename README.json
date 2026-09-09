@@ -19,7 +19,7 @@
             "open_issues": 100,
             "owner": "norlab-ulaval",
             "repo": "libpointmatcher",
-            "stars": 1832,
+            "stars": 1833,
             "topics": [
               "libnabo",
               "libpointmatcher",
@@ -152,7 +152,7 @@
             "id": 5440338,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T14:57:57Z",
+            "last_commit": "2026-09-09T17:34:13Z",
             "open_issues": 6,
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
@@ -173,7 +173,7 @@
             "id": 153139985,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-05-30T00:18:55Z",
+            "last_commit": "2026-09-09T20:05:12Z",
             "open_issues": 11,
             "owner": "SherbyRobotics",
             "repo": "pyro",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:56:24.512Z",
+    "last_updated": "2026-09-09T22:43:07.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
