@@ -152,8 +152,8 @@
             "id": 5440338,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-11T02:10:19Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-15T17:13:34Z",
+            "open_issues": 8,
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
             "stars": 60,
@@ -456,7 +456,7 @@
                 "open_issues": 8,
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
-                "stars": 1486,
+                "stars": 1487,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:23:14.504Z",
+    "last_updated": "2026-09-15T23:08:31.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
