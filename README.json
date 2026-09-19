@@ -65,7 +65,7 @@
             "id": 265063809,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T21:35:28Z",
+            "last_commit": "2026-09-18T23:41:20Z",
             "open_issues": 14,
             "owner": "utiasASRL",
             "repo": "vtr3",
@@ -114,7 +114,7 @@
             "open_issues": 0,
             "owner": "nickcharron",
             "repo": "lidar_snow_removal",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
@@ -495,7 +495,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-03-16T09:19:48Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
                 "stars": 1340,
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:47:07.532Z",
+    "last_updated": "2026-09-19T22:27:09.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",

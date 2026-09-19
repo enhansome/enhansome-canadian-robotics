@@ -38,11 +38,11 @@ The list is sorted by number of stars.
 
 * [ros\_kortex](https://github.com/Kinovarobotics/ros_kortex) ⭐ 219 | 🐛 18 | 🌐 C++ | 📅 2026-01-26 - Official ROS packages to interface with Kinova's KORTEX platform, supporting control, feedback, and example applications for Kinova Gen3 and Gen3 Lite robotic arms. Developed and maintained by [Kinova Robotics](https://www.kinovarobotics.com).  <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/Kinovarobotics/ros_kortex?style=social)](https://github.com/Kinovarobotics/ros_kortex/stargazers) ⭐ 219 | 🐛 18 | 🌐 C++ | 📅 2026-01-26</p>
 
-* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 152 | 🐛 14 | 🌐 C++ | 📅 2026-09-17 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 152 | 🐛 14 | 🌐 C++ | 📅 2026-09-17</p>
+* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 152 | 🐛 14 | 🌐 C++ | 📅 2026-09-18 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 152 | 🐛 14 | 🌐 C++ | 📅 2026-09-18</p>
 
 * [optimized\_dp](https://github.com/SFU-MARS/optimized_dp) ⭐ 141 | 🐛 10 | 🌐 Python | 📅 2026-09-16 - Optimizing Dynamic Programming-Based Algorithms Resources. [SFU-MARS](https://sfumars.com/research) is maintaining this library for their research on principled robot decision making ombining traditional analytical methods in robotics and modern data-driven techniques. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SFU-MARS/optimized_dp?style=social)](https://github.com/SFU-MARS/optimized_dp/stargazers) ⭐ 141 | 🐛 10 | 🌐 Python | 📅 2026-09-16</p>
 
-* [lidar\_snow\_removal](https://github.com/nickcharron/lidar_snow_removal) ⭐ 114 | 🐛 0 | 🌐 C++ | 📅 2026-05-04 - A set of nodes for ROS to filter point clouds with the goal of removing snow in Lidar data. [TrailLAb](https://www.trailab.utias.utoronto.ca) was maintaining this package for their publications on the [Canadian Adverse Weather Dataset](http://cadcd.uwaterloo.ca). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/nickcharron/lidar_snow_removal?style=social)](https://github.com/nickcharron/lidar_snow_removal/stargazers) ⭐ 114 | 🐛 0 | 🌐 C++ | 📅 2026-05-04</p>
+* [lidar\_snow\_removal](https://github.com/nickcharron/lidar_snow_removal) ⭐ 115 | 🐛 0 | 🌐 C++ | 📅 2026-05-04 - A set of nodes for ROS to filter point clouds with the goal of removing snow in Lidar data. [TrailLAb](https://www.trailab.utias.utoronto.ca) was maintaining this package for their publications on the [Canadian Adverse Weather Dataset](http://cadcd.uwaterloo.ca). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/nickcharron/lidar_snow_removal?style=social)](https://github.com/nickcharron/lidar_snow_removal/stargazers) ⭐ 115 | 🐛 0 | 🌐 C++ | 📅 2026-05-04</p>
 
 * [norlab\_icp\_mapper](https://github.com/norlab-ulaval/norlab_icp_mapper) ⭐ 70 | 🐛 7 | 🌐 C++ | 📅 2025-09-04 - A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in extreme conditions, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr) and [Lidar Scan Registration Robust to Extreme Motions](https://norlab.ulaval.ca/publications/extreme-motions). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/norlab_icp_mapper?style=social)](https://github.com/norlab-ulaval/norlab_icp_mapper/stargazers) ⭐ 70 | 🐛 7 | 🌐 C++ | 📅 2025-09-04</p>
 
@@ -362,7 +362,7 @@ The list is sorted by alphabetical order.
 ### Awesome Lists
 
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,489 | 🐛 8 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,340 | 🐛 1 | 📅 2026-03-16
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,340 | 🐛 2 | 📅 2026-03-16
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
