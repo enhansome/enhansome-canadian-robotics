@@ -89,7 +89,7 @@
             "id": 233897290,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T18:39:18Z",
+            "last_commit": "2026-09-21T18:44:22Z",
             "open_issues": 10,
             "owner": "SFU-MARS",
             "repo": "optimized_dp",
@@ -152,8 +152,8 @@
             "id": 5440338,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-17T17:08:20Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-21T21:21:53Z",
+            "open_issues": 8,
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
             "stars": 60,
@@ -456,7 +456,7 @@
                 "open_issues": 8,
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
-                "stars": 1489,
+                "stars": 1491,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -498,7 +498,7 @@
                 "open_issues": 2,
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
-                "stars": 1340,
+                "stars": 1342,
                 "topics": [
                   "3d",
                   "3d-lidar",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:40:57.804Z",
+    "last_updated": "2026-09-21T23:32:09.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
