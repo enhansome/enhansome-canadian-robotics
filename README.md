@@ -361,7 +361,7 @@ The list is sorted by alphabetical order.
 
 ### Awesome Lists
 
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,493 | 🐛 8 | 📅 2024-01-10
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,495 | 🐛 8 | 📅 2024-01-10
 * [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,346 | 🐛 1 | 📅 2026-09-23
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
