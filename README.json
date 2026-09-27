@@ -69,7 +69,7 @@
             "open_issues": 14,
             "owner": "utiasASRL",
             "repo": "vtr3",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "robotics",
               "slam"
@@ -456,7 +456,7 @@
                 "open_issues": 8,
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
-                "stars": 1496,
+                "stars": 1497,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:06:51.859Z",
+    "last_updated": "2026-09-27T23:21:58.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
