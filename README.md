@@ -38,7 +38,7 @@ The list is sorted by number of stars.
 
 * [ros\_kortex](https://github.com/Kinovarobotics/ros_kortex) ⭐ 219 | 🐛 18 | 🌐 C++ | 📅 2026-01-26 - Official ROS packages to interface with Kinova's KORTEX platform, supporting control, feedback, and example applications for Kinova Gen3 and Gen3 Lite robotic arms. Developed and maintained by [Kinova Robotics](https://www.kinovarobotics.com).  <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/Kinovarobotics/ros_kortex?style=social)](https://github.com/Kinovarobotics/ros_kortex/stargazers) ⭐ 219 | 🐛 18 | 🌐 C++ | 📅 2026-01-26</p>
 
-* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 157 | 🐛 15 | 🌐 C++ | 📅 2026-09-28 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 157 | 🐛 15 | 🌐 C++ | 📅 2026-09-28</p>
+* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 157 | 🐛 15 | 🌐 C++ | 📅 2026-09-30 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 157 | 🐛 15 | 🌐 C++ | 📅 2026-09-30</p>
 
 * [optimized\_dp](https://github.com/SFU-MARS/optimized_dp) ⭐ 141 | 🐛 10 | 🌐 Python | 📅 2026-09-24 - Optimizing Dynamic Programming-Based Algorithms Resources. [SFU-MARS](https://sfumars.com/research) is maintaining this library for their research on principled robot decision making ombining traditional analytical methods in robotics and modern data-driven techniques. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SFU-MARS/optimized_dp?style=social)](https://github.com/SFU-MARS/optimized_dp/stargazers) ⭐ 141 | 🐛 10 | 🌐 Python | 📅 2026-09-24</p>
 
@@ -50,7 +50,7 @@ The list is sorted by number of stars.
 
 * [pyro](https://github.com/SherbyRobotics/pyro) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-09-09 - An object-based toolbox for robot dynamic simulation, analysis, control and planning. Developed by USherbrooke's [Createk](https://www.createk.co) for their research on dynamic systems' design, control, simulation and planning. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SherbyRobotics/pyro?style=social)](https://github.com/SherbyRobotics/pyro/stargazers) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-09-09</p>
 
-* [Weather Invariant Lidar-based Navigation (WILN)](https://github.com/norlab-ulaval/wiln) ⭐ 33 | 🐛 8 | 🌐 C++ | 📅 2026-08-17 - A lidar-based Teach-and-Repeat framework designed to enable outdoor autonomous navigation in harsh weather. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in harsh weather, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/wiln?style=social)](https://github.com/norlab-ulaval/wiln/stargazers) ⭐ 33 | 🐛 8 | 🌐 C++ | 📅 2026-08-17 </p>
+* [Weather Invariant Lidar-based Navigation (WILN)](https://github.com/norlab-ulaval/wiln) ⭐ 33 | 🐛 8 | 🌐 C++ | 📅 2026-09-30 - A lidar-based Teach-and-Repeat framework designed to enable outdoor autonomous navigation in harsh weather. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in harsh weather, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/wiln?style=social)](https://github.com/norlab-ulaval/wiln/stargazers) ⭐ 33 | 🐛 8 | 🌐 C++ | 📅 2026-09-30 </p>
 
 * [mrasl\_mav\_traj](https://github.com/MRASL/mrasl_mav_traj) ⭐ 30 | 🐛 3 | 🌐 C++ | 📅 2017-07-16 - Trajectory utilities for Micro UAVs (MAVs). Maintained by the lab [MRASL](http://www.polymtl.ca/robotique-mobile/en). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/MRASL/mrasl_mav_traj?style=social)](https://github.com/MRASL/mrasl_mav_traj/stargazers) ⭐ 30 | 🐛 3 | 🌐 C++ | 📅 2017-07-16</p>
 
@@ -62,7 +62,7 @@ The list is sorted by number of stars.
 ## Datasets
 
 * [Forest image (PercepTree) datasets](https://github.com/norlab-ulaval/PercepTreeV1) ⭐ 109 | 🐛 5 | 🌐 Python | 📅 2024-12-17 - This repository contains two datasets: a 43,000 synthetic forest images and a 100 real image dataset. Both include high-definition RGB images with depth information, bounding box, instance segmentation masks and keypoints annotation. [![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/PercepTreeV1?style=social)](\[\[https://github.com/norlab-ulaval/PercepTreeV1/stargazers]\(https://github.com/norlab-ulaval/PercepTreeV1\)]\(https://github.com/norlab-ulaval/PercepTreeV1\))
-* [The Montmorency Forest Wintertime Dataset](https://github.com/norlab-ulaval/Norlab_wiki/wiki/Montmorency-Forest-Wintertime-Dataset) ⭐ 25 | 🐛 7 | 🌐 TeX | 📅 2026-08-24 - The dataset was collected in the Montmorency subarctic forest and presents fluctuating weather, including light and heavy snow, rain, and drizzle. It contains 18.8km of autonomous navigation in a teach-and-repeat mode.
+* [The Montmorency Forest Wintertime Dataset](https://github.com/norlab-ulaval/Norlab_wiki/wiki/Montmorency-Forest-Wintertime-Dataset) ⭐ 25 | 🐛 7 | 🌐 TeX | 📅 2026-09-30 - The dataset was collected in the Montmorency subarctic forest and presents fluctuating weather, including light and heavy snow, rain, and drizzle. It contains 18.8km of autonomous navigation in a teach-and-repeat mode.
 * [University of Toronto Indoor 3D Dataset](https://github.com/utiasASRL/UTIn3D) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-07-18 - This repository contains a robot navigation dataset in crowded indoor environment. It includes the lidar frames, their localization computed by ICP based algorithm PointMap, and the labels provided by automated annotation approach. It was introduced in [Learning Spatiotemporal Occupancy Grid Maps for Lifelong Navigation in Dynamic Scenes](https://arxiv.org/pdf/2108.10585.pdf). ![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/UTIn3D?style=social)
 * [The Boreas Dataset](https://www.boreas.utias.utoronto.ca) - Dataset collected by driving a repeated route over the course of 1 year, resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data, including several sequences with adverse weather conditions such as rain and heavy snow.
   * [pyboreas](https://github.com/utiasASRL/pyboreas) ⭐ 122 | 🐛 3 | 🌐 Python | 📅 2026-09-16 - Devkit for the Boreas autonomous driving dataset. [![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/pyboreas?style=social)](https://github.com/utiasASRL/pyboreas/stargazers) ⭐ 122 | 🐛 3 | 🌐 Python | 📅 2026-09-16
@@ -361,8 +361,8 @@ The list is sorted by alphabetical order.
 
 ### Awesome Lists
 
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,498 | 🐛 8 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,347 | 🐛 2 | 📅 2026-09-23
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,499 | 🐛 8 | 📅 2024-01-10
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,347 | 🐛 1 | 📅 2026-09-30
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
