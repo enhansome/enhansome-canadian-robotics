@@ -443,7 +443,7 @@
             {
               "node_type": "item",
               "title": "Awesome Robotics",
-              "description": null,
+              "description": "ahundt/awesome-robotics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -485,7 +485,7 @@
             {
               "node_type": "item",
               "title": "Awesome LIDAR",
-              "description": null,
+              "description": "szenergy/awesome-lidar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:58:26.570Z",
+    "last_updated": "2026-10-03T04:39:32.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
