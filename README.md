@@ -34,7 +34,7 @@ We added abitrary criterias to be listed here with the intention to be transpare
 You need at least 15 stars on your repository to be listed here.
 The list is sorted by number of stars.
 
-* [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) ⭐ 1,837 | 🐛 100 | 🌐 C++ | 📅 2026-08-27 - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics in C++. [Norlab](https://norlab.ulaval.ca) is maintaining and using the library for their research on autonomous navigation in harsh environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?style=social)](https://github.com/ethz-asl/libpointmatcher/stargazers) ⭐ 1,837 | 🐛 100 | 🌐 C++ | 📅 2026-08-27</p>
+* [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) ⭐ 1,838 | 🐛 100 | 🌐 C++ | 📅 2026-08-27 - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics in C++. [Norlab](https://norlab.ulaval.ca) is maintaining and using the library for their research on autonomous navigation in harsh environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?style=social)](https://github.com/ethz-asl/libpointmatcher/stargazers) ⭐ 1,838 | 🐛 100 | 🌐 C++ | 📅 2026-08-27</p>
 
 * [ros\_kortex](https://github.com/Kinovarobotics/ros_kortex) ⭐ 219 | 🐛 18 | 🌐 C++ | 📅 2026-01-26 - Official ROS packages to interface with Kinova's KORTEX platform, supporting control, feedback, and example applications for Kinova Gen3 and Gen3 Lite robotic arms. Developed and maintained by [Kinova Robotics](https://www.kinovarobotics.com).  <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/Kinovarobotics/ros_kortex?style=social)](https://github.com/Kinovarobotics/ros_kortex/stargazers) ⭐ 219 | 🐛 18 | 🌐 C++ | 📅 2026-01-26</p>
 
@@ -361,8 +361,8 @@ The list is sorted by alphabetical order.
 
 ### Awesome Lists
 
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,499 | 🐛 8 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,347 | 🐛 1 | 📅 2026-09-30
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,501 | 🐛 8 | 📅 2024-01-10
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,348 | 🐛 1 | 📅 2026-09-30
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
