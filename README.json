@@ -19,7 +19,7 @@
             "open_issues": 100,
             "owner": "norlab-ulaval",
             "repo": "libpointmatcher",
-            "stars": 1839,
+            "stars": 1840,
             "topics": [
               "libnabo",
               "libpointmatcher",
@@ -453,10 +453,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-01-10T07:45:21Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
-                "stars": 1508,
+                "stars": 1510,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:17:14.792Z",
+    "last_updated": "2026-10-10T23:47:33.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
