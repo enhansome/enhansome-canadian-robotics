@@ -456,7 +456,7 @@
                 "open_issues": 9,
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
-                "stars": 1510,
+                "stars": 1511,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:47:33.022Z",
+    "last_updated": "2026-10-11T23:54:59.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
