@@ -46,7 +46,7 @@ The list is sorted by number of stars.
 
 * [norlab\_icp\_mapper](https://github.com/norlab-ulaval/norlab_icp_mapper) ⭐ 70 | 🐛 7 | 🌐 C++ | 📅 2025-09-04 - A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in extreme conditions, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr) and [Lidar Scan Registration Robust to Extreme Motions](https://norlab.ulaval.ca/publications/extreme-motions). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/norlab_icp_mapper?style=social)](https://github.com/norlab-ulaval/norlab_icp_mapper/stargazers) ⭐ 70 | 🐛 7 | 🌐 C++ | 📅 2025-09-04</p>
 
-* [clearpath\_common](https://github.com/clearpathrobotics/clearpath_common) ⭐ 64 | 🐛 11 | 🌐 Python | 📅 2026-10-09 - A collection of ROS packages and configuration files maintained by [Clearpath Robotics](https://clearpathrobotics.com) to support their fleet of mobile robots for research and industrial applications. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/clearpathrobotics/clearpath_common?style=social)](https://github.com/clearpathrobotics/clearpath_common/stargazers) ⭐ 64 | 🐛 11 | 🌐 Python | 📅 2026-10-09</p>
+* [clearpath\_common](https://github.com/clearpathrobotics/clearpath_common) ⭐ 64 | 🐛 11 | 🌐 Python | 📅 2026-10-13 - A collection of ROS packages and configuration files maintained by [Clearpath Robotics](https://clearpathrobotics.com) to support their fleet of mobile robots for research and industrial applications. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/clearpathrobotics/clearpath_common?style=social)](https://github.com/clearpathrobotics/clearpath_common/stargazers) ⭐ 64 | 🐛 11 | 🌐 Python | 📅 2026-10-13</p>
 
 * [pyro](https://github.com/SherbyRobotics/pyro) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-09-09 - An object-based toolbox for robot dynamic simulation, analysis, control and planning. Developed by USherbrooke's [Createk](https://www.createk.co) for their research on dynamic systems' design, control, simulation and planning. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SherbyRobotics/pyro?style=social)](https://github.com/SherbyRobotics/pyro/stargazers) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-09-09</p>
 
@@ -361,8 +361,8 @@ The list is sorted by alphabetical order.
 
 ### Awesome Lists
 
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,512 | 🐛 9 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,355 | 🐛 1 | 📅 2026-09-30
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,514 | 🐛 9 | 📅 2024-01-10
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,356 | 🐛 1 | 📅 2026-09-30
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
