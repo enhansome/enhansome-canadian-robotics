@@ -69,7 +69,7 @@
             "open_issues": 15,
             "owner": "utiasASRL",
             "repo": "vtr3",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "robotics",
               "slam"
@@ -152,8 +152,8 @@
             "id": 5440338,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-13T16:51:38Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-14T16:51:42Z",
+            "open_issues": 10,
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
             "stars": 64,
@@ -498,7 +498,7 @@
                 "open_issues": 1,
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
-                "stars": 1356,
+                "stars": 1357,
                 "topics": [
                   "3d",
                   "3d-lidar",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:50:03.947Z",
+    "last_updated": "2026-10-14T23:23:42.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
