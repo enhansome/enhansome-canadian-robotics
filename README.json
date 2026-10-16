@@ -152,8 +152,8 @@
             "id": 5440338,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-14T16:51:42Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-16T12:10:39Z",
+            "open_issues": 10,
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
             "stars": 64,
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:14:12.671Z",
+    "last_updated": "2026-10-16T22:58:56.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
