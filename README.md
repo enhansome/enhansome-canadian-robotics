@@ -65,7 +65,7 @@ The list is sorted by number of stars.
 * [The Montmorency Forest Wintertime Dataset](https://github.com/norlab-ulaval/Norlab_wiki/wiki/Montmorency-Forest-Wintertime-Dataset) ⭐ 27 | 🐛 7 | 🌐 TeX | 📅 2026-09-30 - The dataset was collected in the Montmorency subarctic forest and presents fluctuating weather, including light and heavy snow, rain, and drizzle. It contains 18.8km of autonomous navigation in a teach-and-repeat mode.
 * [University of Toronto Indoor 3D Dataset](https://github.com/utiasASRL/UTIn3D) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-07-18 - This repository contains a robot navigation dataset in crowded indoor environment. It includes the lidar frames, their localization computed by ICP based algorithm PointMap, and the labels provided by automated annotation approach. It was introduced in [Learning Spatiotemporal Occupancy Grid Maps for Lifelong Navigation in Dynamic Scenes](https://arxiv.org/pdf/2108.10585.pdf). ![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/UTIn3D?style=social)
 * [The Boreas Dataset](https://www.boreas.utias.utoronto.ca) - Dataset collected by driving a repeated route over the course of 1 year, resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data, including several sequences with adverse weather conditions such as rain and heavy snow.
-  * [pyboreas](https://github.com/utiasASRL/pyboreas) ⭐ 123 | 🐛 3 | 🌐 Python | 📅 2026-09-16 - Devkit for the Boreas autonomous driving dataset. [![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/pyboreas?style=social)](https://github.com/utiasASRL/pyboreas/stargazers) ⭐ 123 | 🐛 3 | 🌐 Python | 📅 2026-09-16
+  * [pyboreas](https://github.com/utiasASRL/pyboreas) ⭐ 124 | 🐛 3 | 🌐 Python | 📅 2026-09-16 - Devkit for the Boreas autonomous driving dataset. [![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/pyboreas?style=social)](https://github.com/utiasASRL/pyboreas/stargazers) ⭐ 124 | 🐛 3 | 🌐 Python | 📅 2026-09-16
 * [The Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca) -  The CADC dataset, collected during winter within the Region of Waterloo, Canada, aims to promote research to improve self-driving in adverse weather conditions.
 * [Leddar PixSet Dataset](https://leddartech.com/solutions/leddar-pixset-dataset/) - The First Full-Waveform Flash LIDAR Dataset for Autonomous Vehicle R\&D. The PixSet dataset contains 97 sequences for a total of roughly 29k frames using the AV sensor suite. Each frame has been manually annotated with 3D bounding boxes. The sequences have been gathered in various Canadian environments (e.g., urban, suburban like highway), climatic (e.g., sunny, cloudy, rainy) conditions and illumination (e.g., day, night, twilight) conditions with an instrumented vehicle.
 * [The Canadian Planetary Emulation Terrain Energy-Aware Rover Navigation (`enav-planetary`) Dataset](https://starslab.ca/enav-planetary-dataset) - Developed by UToronto's STARS Lab, the Energy-Aware Planetary Navigation Dataset has 1.2 km of data from a typical rover's sensor payload. The goal of this dataset is to promote rover energy management strategies for future exploratory missions to the Moon and Mars. Introduced in [The Canadian Planetary Emulation Terrain Energy-Aware Rover Navigation Dataset](https://doi.org/10.1177/0278364920908922).
@@ -361,8 +361,8 @@ The list is sorted by alphabetical order.
 
 ### Awesome Lists
 
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,519 | 🐛 9 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,357 | 🐛 1 | 📅 2026-09-30
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,520 | 🐛 9 | 📅 2024-01-10
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,359 | 🐛 1 | 📅 2026-09-30
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

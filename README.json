@@ -348,7 +348,7 @@
                 "open_issues": 3,
                 "owner": "utiasASRL",
                 "repo": "pyboreas",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:27:03.489Z"
@@ -456,7 +456,7 @@
                 "open_issues": 9,
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
-                "stars": 1519,
+                "stars": 1520,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -498,7 +498,7 @@
                 "open_issues": 1,
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
-                "stars": 1357,
+                "stars": 1359,
                 "topics": [
                   "3d",
                   "3d-lidar",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:20:48.038Z",
+    "last_updated": "2026-10-21T23:34:36.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
@@ -540,7 +540,7 @@
       "open_issues": 11,
       "owner": "norlab-ulaval",
       "repo": "awesome-canadian-robotics",
-      "stars": 74,
+      "stars": 75,
       "topics": [
         "awesome",
         "awesome-list",
