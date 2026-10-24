@@ -16,7 +16,7 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T14:20:25Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "norlab-ulaval",
             "repo": "libpointmatcher",
             "stars": 1839,
@@ -89,7 +89,7 @@
             "id": 233897290,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T20:27:36Z",
+            "last_commit": "2026-10-24T00:21:21Z",
             "open_issues": 11,
             "owner": "SFU-MARS",
             "repo": "optimized_dp",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:25:46.113Z",
+    "last_updated": "2026-10-24T22:41:54.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
