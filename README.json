@@ -19,7 +19,7 @@
             "open_issues": 101,
             "owner": "norlab-ulaval",
             "repo": "libpointmatcher",
-            "stars": 1840,
+            "stars": 1841,
             "topics": [
               "libnabo",
               "libpointmatcher",
@@ -65,7 +65,7 @@
             "id": 265063809,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T17:05:38Z",
+            "last_commit": "2026-10-27T21:33:37Z",
             "open_issues": 16,
             "owner": "utiasASRL",
             "repo": "vtr3",
@@ -93,7 +93,7 @@
             "open_issues": 11,
             "owner": "SFU-MARS",
             "repo": "optimized_dp",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
@@ -152,8 +152,8 @@
             "id": 5440338,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-26T19:06:51Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-27T19:05:13Z",
+            "open_issues": 11,
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
             "stars": 64,
@@ -498,7 +498,7 @@
                 "open_issues": 1,
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
-                "stars": 1360,
+                "stars": 1359,
                 "topics": [
                   "3d",
                   "3d-lidar",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:02:39.449Z",
+    "last_updated": "2026-10-27T23:57:30.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
