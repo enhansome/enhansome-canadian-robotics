@@ -65,7 +65,7 @@
             "id": 265063809,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T00:42:29Z",
+            "last_commit": "2026-10-30T16:10:15Z",
             "open_issues": 16,
             "owner": "utiasASRL",
             "repo": "vtr3",
@@ -152,7 +152,7 @@
             "id": 5440338,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T19:03:46Z",
+            "last_commit": "2026-10-30T13:48:08Z",
             "open_issues": 11,
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
@@ -206,7 +206,7 @@
             "id": 215540586,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-30T18:32:18Z",
+            "last_commit": "2026-10-30T18:15:21Z",
             "open_issues": 8,
             "owner": "norlab-ulaval",
             "repo": "wiln",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T00:14:18.620Z",
+    "last_updated": "2026-10-31T00:00:04.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
