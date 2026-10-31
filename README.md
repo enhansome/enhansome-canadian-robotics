@@ -361,8 +361,8 @@ The list is sorted by alphabetical order.
 
 ### Awesome Lists
 
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,520 | 🐛 9 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,362 | 🐛 1 | 📅 2026-10-26
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,519 | 🐛 9 | 📅 2024-01-10
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,362 | 🐛 2 | 📅 2026-10-26
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
