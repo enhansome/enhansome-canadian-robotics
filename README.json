@@ -89,7 +89,7 @@
             "id": 233897290,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T23:43:14Z",
+            "last_commit": "2026-11-08T18:45:28Z",
             "open_issues": 11,
             "owner": "SFU-MARS",
             "repo": "optimized_dp",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:53:31.359Z",
+    "last_updated": "2026-11-08T23:57:52.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
