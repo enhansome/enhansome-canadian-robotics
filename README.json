@@ -89,8 +89,8 @@
             "id": 233897290,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T18:45:28Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-09T22:23:14Z",
+            "open_issues": 12,
             "owner": "SFU-MARS",
             "repo": "optimized_dp",
             "stars": 142,
@@ -114,7 +114,7 @@
             "open_issues": 0,
             "owner": "nickcharron",
             "repo": "lidar_snow_removal",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T04:27:03.489Z"
@@ -152,8 +152,8 @@
             "id": 5440338,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-06T15:54:11Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-09T19:04:21Z",
+            "open_issues": 9,
             "owner": "clearpathrobotics",
             "repo": "clearpath_common",
             "stars": 64,
@@ -348,7 +348,7 @@
                 "open_issues": 3,
                 "owner": "utiasASRL",
                 "repo": "pyboreas",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:27:03.489Z"
@@ -456,7 +456,7 @@
                 "open_issues": 10,
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
-                "stars": 1525,
+                "stars": 1524,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -498,7 +498,7 @@
                 "open_issues": 1,
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
-                "stars": 1368,
+                "stars": 1369,
                 "topics": [
                   "3d",
                   "3d-lidar",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T23:57:52.366Z",
+    "last_updated": "2026-11-10T02:53:09.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
