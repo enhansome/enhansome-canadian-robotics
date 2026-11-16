@@ -65,7 +65,7 @@
             "id": 265063809,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T20:38:24Z",
+            "last_commit": "2026-11-15T21:40:53Z",
             "open_issues": 16,
             "owner": "utiasASRL",
             "repo": "vtr3",
@@ -89,7 +89,7 @@
             "id": 233897290,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T23:04:32Z",
+            "last_commit": "2026-11-15T06:42:17Z",
             "open_issues": 12,
             "owner": "SFU-MARS",
             "repo": "optimized_dp",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:10:44.079Z",
+    "last_updated": "2026-11-16T00:18:47.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
