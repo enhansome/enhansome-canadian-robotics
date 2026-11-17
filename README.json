@@ -19,7 +19,7 @@
             "open_issues": 101,
             "owner": "norlab-ulaval",
             "repo": "libpointmatcher",
-            "stars": 1843,
+            "stars": 1845,
             "topics": [
               "libnabo",
               "libpointmatcher",
@@ -65,7 +65,7 @@
             "id": 265063809,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T21:40:53Z",
+            "last_commit": "2026-11-16T04:44:17Z",
             "open_issues": 16,
             "owner": "utiasASRL",
             "repo": "vtr3",
@@ -89,7 +89,7 @@
             "id": 233897290,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-15T06:42:17Z",
+            "last_commit": "2026-11-16T01:26:07Z",
             "open_issues": 12,
             "owner": "SFU-MARS",
             "repo": "optimized_dp",
@@ -210,7 +210,7 @@
             "open_issues": 8,
             "owner": "norlab-ulaval",
             "repo": "wiln",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "forest",
               "icp",
@@ -456,7 +456,7 @@
                 "open_issues": 10,
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
-                "stars": 1525,
+                "stars": 1527,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -498,7 +498,7 @@
                 "open_issues": 1,
                 "owner": "szenergy",
                 "repo": "awesome-lidar",
-                "stars": 1373,
+                "stars": 1374,
                 "topics": [
                   "3d",
                   "3d-lidar",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T00:18:47.864Z",
+    "last_updated": "2026-11-17T03:05:45.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
@@ -537,7 +537,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-26T10:04:59Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "norlab-ulaval",
       "repo": "awesome-canadian-robotics",
       "stars": 75,

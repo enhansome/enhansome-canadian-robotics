@@ -34,13 +34,13 @@ We added abitrary criterias to be listed here with the intention to be transpare
 You need at least 15 stars on your repository to be listed here.
 The list is sorted by number of stars.
 
-* [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) ⭐ 1,843 | 🐛 101 | 🌐 C++ | 📅 2026-08-27 - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics in C++. [Norlab](https://norlab.ulaval.ca) is maintaining and using the library for their research on autonomous navigation in harsh environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?style=social)](https://github.com/ethz-asl/libpointmatcher/stargazers) ⭐ 1,843 | 🐛 101 | 🌐 C++ | 📅 2026-08-27</p>
+* [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) ⭐ 1,845 | 🐛 101 | 🌐 C++ | 📅 2026-08-27 - An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics in C++. [Norlab](https://norlab.ulaval.ca) is maintaining and using the library for their research on autonomous navigation in harsh environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/ethz-asl/libpointmatcher?style=social)](https://github.com/ethz-asl/libpointmatcher/stargazers) ⭐ 1,845 | 🐛 101 | 🌐 C++ | 📅 2026-08-27</p>
 
 * [ros\_kortex](https://github.com/Kinovarobotics/ros_kortex) ⭐ 221 | 🐛 18 | 🌐 C++ | 📅 2026-01-26 - Official ROS packages to interface with Kinova's KORTEX platform, supporting control, feedback, and example applications for Kinova Gen3 and Gen3 Lite robotic arms. Developed and maintained by [Kinova Robotics](https://www.kinovarobotics.com).  <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/Kinovarobotics/ros_kortex?style=social)](https://github.com/Kinovarobotics/ros_kortex/stargazers) ⭐ 221 | 🐛 18 | 🌐 C++ | 📅 2026-01-26</p>
 
-* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 160 | 🐛 16 | 🌐 C++ | 📅 2026-11-15 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 160 | 🐛 16 | 🌐 C++ | 📅 2026-11-15</p>
+* [VT\&R3](https://github.com/utiasASRL/vtr3) ⭐ 160 | 🐛 16 | 🌐 C++ | 📅 2026-11-16 - A C++ implementation of the Teach and Repeat navigation framework. It enables a robot to be taught a network of traversable paths and then closely repeat any part of the network.  [utiasASRL](https://utiasasrl.github.io) is maintaining and using the package for their research on vision-based localization algorithms in outdoor environments. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/utiasASRL/vtr3?style=social)](https://github.com/utiasASRL/vtr3/stargazers) ⭐ 160 | 🐛 16 | 🌐 C++ | 📅 2026-11-16</p>
 
-* [optimized\_dp](https://github.com/SFU-MARS/optimized_dp) ⭐ 142 | 🐛 12 | 🌐 Python | 📅 2026-11-15 - Optimizing Dynamic Programming-Based Algorithms Resources. [SFU-MARS](https://sfumars.com/research) is maintaining this library for their research on principled robot decision making ombining traditional analytical methods in robotics and modern data-driven techniques. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SFU-MARS/optimized_dp?style=social)](https://github.com/SFU-MARS/optimized_dp/stargazers) ⭐ 142 | 🐛 12 | 🌐 Python | 📅 2026-11-15</p>
+* [optimized\_dp](https://github.com/SFU-MARS/optimized_dp) ⭐ 142 | 🐛 12 | 🌐 Python | 📅 2026-11-16 - Optimizing Dynamic Programming-Based Algorithms Resources. [SFU-MARS](https://sfumars.com/research) is maintaining this library for their research on principled robot decision making ombining traditional analytical methods in robotics and modern data-driven techniques. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SFU-MARS/optimized_dp?style=social)](https://github.com/SFU-MARS/optimized_dp/stargazers) ⭐ 142 | 🐛 12 | 🌐 Python | 📅 2026-11-16</p>
 
 * [lidar\_snow\_removal](https://github.com/nickcharron/lidar_snow_removal) ⭐ 116 | 🐛 0 | 🌐 C++ | 📅 2026-05-04 - A set of nodes for ROS to filter point clouds with the goal of removing snow in Lidar data. [TrailLAb](https://www.trailab.utias.utoronto.ca) was maintaining this package for their publications on the [Canadian Adverse Weather Dataset](http://cadcd.uwaterloo.ca). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/nickcharron/lidar_snow_removal?style=social)](https://github.com/nickcharron/lidar_snow_removal/stargazers) ⭐ 116 | 🐛 0 | 🌐 C++ | 📅 2026-05-04</p>
 
@@ -50,7 +50,7 @@ The list is sorted by number of stars.
 
 * [pyro](https://github.com/SherbyRobotics/pyro) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-09-09 - An object-based toolbox for robot dynamic simulation, analysis, control and planning. Developed by USherbrooke's [Createk](https://www.createk.co) for their research on dynamic systems' design, control, simulation and planning. <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/SherbyRobotics/pyro?style=social)](https://github.com/SherbyRobotics/pyro/stargazers) ⭐ 57 | 🐛 11 | 🌐 Python | 📅 2026-09-09</p>
 
-* [Weather Invariant Lidar-based Navigation (WILN)](https://github.com/norlab-ulaval/wiln) ⭐ 33 | 🐛 8 | 🌐 C++ | 📅 2026-10-30 - A lidar-based Teach-and-Repeat framework designed to enable outdoor autonomous navigation in harsh weather. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in harsh weather, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/wiln?style=social)](https://github.com/norlab-ulaval/wiln/stargazers) ⭐ 33 | 🐛 8 | 🌐 C++ | 📅 2026-10-30 </p>
+* [Weather Invariant Lidar-based Navigation (WILN)](https://github.com/norlab-ulaval/wiln) ⭐ 34 | 🐛 8 | 🌐 C++ | 📅 2026-10-30 - A lidar-based Teach-and-Repeat framework designed to enable outdoor autonomous navigation in harsh weather. [Norlab](https://norlab.ulaval.ca) is maintaining and using the framework to deploy mobile robots in harsh weather, recently featured in [Kilometer-scale autonomous navigation in subarctic forests: challenges and lessons learned](https://norlab.ulaval.ca/publications/field-report-ltr). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/norlab-ulaval/wiln?style=social)](https://github.com/norlab-ulaval/wiln/stargazers) ⭐ 34 | 🐛 8 | 🌐 C++ | 📅 2026-10-30 </p>
 
 * [mrasl\_mav\_traj](https://github.com/MRASL/mrasl_mav_traj) ⭐ 30 | 🐛 3 | 🌐 C++ | 📅 2017-07-16 - Trajectory utilities for Micro UAVs (MAVs). Maintained by the lab [MRASL](http://www.polymtl.ca/robotique-mobile/en). <p align="right">[![GitHub Repo stars](https://img.shields.io/github/stars/MRASL/mrasl_mav_traj?style=social)](https://github.com/MRASL/mrasl_mav_traj/stargazers) ⭐ 30 | 🐛 3 | 🌐 C++ | 📅 2017-07-16</p>
 
@@ -361,8 +361,8 @@ The list is sorted by alphabetical order.
 
 ### Awesome Lists
 
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,525 | 🐛 10 | 📅 2024-01-10
-* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,373 | 🐛 1 | 📅 2026-11-06
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,527 | 🐛 10 | 📅 2024-01-10
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,374 | 🐛 1 | 📅 2026-11-06
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
@@ -372,4 +372,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
