@@ -72,7 +72,7 @@ The list is sorted by number of stars.
   * [enav-planetary-dataset](https://github.com/utiasSTARS/enav-planetary-dataset) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2025-01-09 - ROS packages to visualize and interact with the data in RViz, helper scripts in Python to fetch and plot data from the rosbags. [![GitHub Repo stars](https://img.shields.io/github/stars/utiasSTARS/enav-planetary-dataset?style=social)](https://github.com/utiasSTARS/enav-planetary-dataset/stargazers) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2025-01-09
 * [The Montmorency dataset](https://norlab.ulaval.ca/research/montmorencydataset) - The dataset contains the ground truth species, diameter at breast height (DBH) and position of more than 1000 trees across four forests, as well as 11 trajectories of a lidar-equipped robot going through these forests.
 * [Precise Synthetic Image and LiDAR Dataset for Autonomous Vehicle Perception (presil)](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/projects/precise-synthetic-image-and-lidar-presil-dataset-autonomous) - The dataset contains over 50,000 instances and includes high-definition images with full resolution depth information, semantic segmentation (images), point-wise segmentation (point clouds), ground point labels (point clouds), and detailed annotations for vehicles and people in Grand Theft Auto V (GTA V), a commercial video game.
-  * [DeepGTAV-PreSIL](https://github.com/bradenhurl/DeepGTAV-PreSIL) ⭐ 90 | 🐛 22 | 🌐 C++ | 📅 2019-09-03 - Data generation code used to mine data from GTAV. [![GitHub Repo stars](https://img.shields.io/github/stars/bradenhurl/DeepGTAV-PreSIL?style=social)](https://github.com/bradenhurl/DeepGTAV-PreSIL/stargazers) ⭐ 90 | 🐛 22 | 🌐 C++ | 📅 2019-09-03
+  * [DeepGTAV-PreSIL](https://github.com/bradenhurl/DeepGTAV-PreSIL) ⭐ 90 | 🐛 21 | 🌐 C++ | 📅 2019-09-03 - Data generation code used to mine data from GTAV. [![GitHub Repo stars](https://img.shields.io/github/stars/bradenhurl/DeepGTAV-PreSIL?style=social)](https://github.com/bradenhurl/DeepGTAV-PreSIL/stargazers) ⭐ 90 | 🐛 21 | 🌐 C++ | 📅 2019-09-03
   * [PreSIL-tools](https://github.com/bradenhurl/PreSIL-tools) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2019-06-07 - Scripts for generating ground planes, splits, and visualizations from the data. [![GitHub Repo stars](https://img.shields.io/github/stars/bradenhurl/PreSIL-tools?style=social)](https://github.com/bradenhurl/PreSIL-tools/stargazers) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2019-06-07
 
 ## Companies
@@ -363,6 +363,7 @@ The list is sorted by alphabetical order.
 
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics#point-clouds) ⭐ 1,531 | 🐛 11 | 📅 2024-01-10
 * [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) ⭐ 1,375 | 🐛 2 | 📅 2026-11-06
+* [Awesome Canada](https://github.com/leon-wbr/awesome-canada#readme) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-11-24
 * [Awesome Robotics Libraries](http://jslee02.github.io/awesome-robotics-libraries)
 
 ### Canadian Robotics Research Lists
@@ -372,4 +373,4 @@ The list is sorted by alphabetical order.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
