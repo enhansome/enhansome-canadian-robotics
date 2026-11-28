@@ -456,7 +456,7 @@
                 "open_issues": 11,
                 "owner": "ahundt",
                 "repo": "awesome-robotics",
-                "stars": 1531,
+                "stars": 1532,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -531,7 +531,7 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-24T09:56:25Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "leon-wbr",
                 "repo": "awesome-canada",
                 "stars": 1,
@@ -568,7 +568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:11:47.101Z",
+    "last_updated": "2026-11-28T02:55:35.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Canadian robotics open-source software, companies and researchers.",
